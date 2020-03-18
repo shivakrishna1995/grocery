@@ -4,7 +4,6 @@ import Header from './header';
 import Body from './body';
 import DrawerMenu from './drawer_menu';
 
-
 export default () => {
     return (
         <View style={styles.root}>
